@@ -1,2 +1,2 @@
 # Movie-Recommender-
-TMDB Dataset using "Cosine Similarity"
+A content based movie recommder program usnig TMDB Dataset using "Cosine Similarity"
